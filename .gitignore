@@ -5,9 +5,7 @@ __pycache__/
 .venv
 
 # Input files
-*.mp4
-*.mov
+*.mp3
 
 # Output directory
 output/
-*.png
