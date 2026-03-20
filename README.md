@@ -7,6 +7,8 @@
 - Colorful, styled terminal interface
 - Support for multiple audio formats
 
+![Audio Optimization Cover](public/cover.png)
+
 ## Requirements
 
 - Python 3.8 or higher
